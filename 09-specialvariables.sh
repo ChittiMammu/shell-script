@@ -10,7 +10,7 @@
 
 #echo "current working directory: $PWD"
 
-echo "which user is running this script: $USER"
+#echo "which user is running this script: $USER"
 
 #echo "home directory of current user: $HOME"
 
@@ -18,4 +18,4 @@ echo "which user is running this script: $USER"
 
 #echo "process id of the current shell script: $$"
 
-#echo "process id of last background command: $!"
+echo "process id of last background command: $!"
