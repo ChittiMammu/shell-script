@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-USER=$(id -u)
+USER=$(id -u)         
 
 #knowing user id
 
